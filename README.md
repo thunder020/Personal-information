@@ -1,2 +1,2 @@
-# Personal-information
-It's my first project and simple .
+# First codes
+they are my first project and simple.
